@@ -1,0 +1,2 @@
+# ARQDSW3
+Repositório contendo os projetos desenvolvidos durante a disciplina ARQDSW3 - Práticas Avançadas em Desenvolvimento Web no semestre 2025-2 do IFSP - Campus Araraquara, ministrada pelo professor Henrique Galati.
