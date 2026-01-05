@@ -1,0 +1,21 @@
+[submodule "arqdsw3_ifitness"]
+	path = arqdsw3_ifitness
+	url = https://github.com/jpandolpho/arqdsw3_ifitness
+[submodule "arqdsw3_projetoInicial"]
+	path = arqdsw3_projetoInicial
+	url = https://github.com/jpandolpho/arqdsw3_projetoInicial
+[submodule "arqdsw3_livrariaVirtual"]
+	path = arqdsw3_livrariaVirtual
+	url = https://github.com/jpandolpho/arqdsw3_livrariaVirtual
+[submodule "arqdsw3_jdbctemplate"]
+	path = arqdsw3_jdbctemplate
+	url = https://github.com/jpandolpho/arqdsw3_jdbctemplate
+[submodule "arqdsw3_livroJdbc"]
+	path = arqdsw3_livroJdbc
+	url = https://github.com/jpandolpho/arqdsw3_livroJdbc
+[submodule "arqdsw3_exemploJpa"]
+	path = arqdsw3_exemploJpa
+	url = https://github.com/jpandolpho/arqdsw3_exemploJpa
+[submodule "FinQuest"]
+	path = FinQuest
+	url = https://github.com/luis-henrique-aguiar/FinQuest
